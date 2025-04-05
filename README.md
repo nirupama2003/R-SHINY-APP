@@ -114,6 +114,6 @@ Inspired by academic projects and a desire to make statistics more interactive a
 
 ## 🔗 Connect with Me
 
-?? LinkedIn: linkedin.com/in/nirupama-krishnan-aa023735a  
+📁 LinkedIn: linkedin.com/in/nirupama-krishnan-5b8854223  
 📁 GitHub: https://github.com/nirupama2003/R-SHINY-APP  
 
