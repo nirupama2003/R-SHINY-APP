@@ -26,12 +26,6 @@ Welcome to the **Time Series Analyzer**, a user-friendly R Shiny app designed fo
 
 ---
 
-## 📽️ Demo Video
-
-👉 [Insert your LinkedIn or YouTube link here once uploaded]
-
----
-
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -82,16 +76,6 @@ If you don't have your own data yet, feel free to explore using:
 - **Time Series Models:** ARIMA, SARIMA (auto.arima)
 - **Volatility Models:** ARCH/GARCH (`rugarch`)
 - **Data Wrangling:** dplyr, lubridate, zoo
-
----
-
-## ✨ Screenshots
-
-![Original Series](screenshots/original_plot.png)
-![ARIMA Forecast](screenshots/arima_forecast.png)
-![GARCH Volatility](screenshots/garch_volatility.png)
-
-*(Add screenshots to a `/screenshots` folder in your repo to display them here)*
 
 ---
 
